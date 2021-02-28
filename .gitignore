@@ -1,0 +1,7 @@
+# Don't add data to the repo
+/vdc
+
+# Don't add project config files either
+/.idea
+*.iml
+*.xml
