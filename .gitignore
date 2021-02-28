@@ -1,5 +1,7 @@
-# Don't add data to the repo
-/vdc
+# Don't add data or original tutorials to the repo
+/brainiak_datasets
+/brainiak-tutorials
+/brainiak-tutorials/tutorials
 
 # Don't add project config files either
 /.idea
